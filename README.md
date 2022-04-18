@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ben @brlyons
-- 👀 I’m interested in DIY, making
-- 🌱 I’m currently learning MatLab
+- 👋 Hi, I’m Ben (@brlyons)
+- - - - - - - - - - - - - -
 - 📫 How to reach me benjamin_lyons@brown.edu /  @bennylyons
 
 <!---
